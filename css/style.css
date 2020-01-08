@@ -1,6 +1,19 @@
-.column {
+.column-1 {
   width: 33%;
   float: left;
+  background-color: #0062f5;
+}
+
+.column-2 {
+  width: 33%;
+  float: left;
+  background-color: #10c200
+}
+
+.column-3 {
+  width: 33%;
+  float: left;
+  background-color: red
 }
 
 img{
@@ -9,8 +22,4 @@ img{
 
 h1{
   text-align: center;
-}
-
-body {
-  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
 }
